@@ -1,0 +1,31 @@
+.submitResults{
+    margin: 0;
+    position: absolute;
+    top: 90%;
+    left: 45%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    padding: 7px 20px;
+    border-color: black;
+}
+
+.boxResults{
+    width: 100;
+    position: static;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+label{
+    width: 140px;
+    display: inline-block;
+}
+
+input{
+    margin-left: 190px;
+}
+
+textarea{
+    border: none;
+    outline-style: none;
+}

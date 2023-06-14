@@ -1,0 +1,63 @@
+.frame1{
+    width: 100%;
+    position: static;
+}
+
+.frame2{
+    border: 2px solid black;
+    background-color: whitesmoke;
+    margin: 200px;
+    padding: 100px;
+}
+
+#btnFillSurvey{
+    padding: 20px 80px;
+    font-size: medium;
+    background-color: green;
+    color: white;
+}
+
+#btnViewSurvey{
+    padding: 20px 61px;
+    font-size: medium;
+    background-color: green;
+    color: white;
+}
+
+.details{
+    margin-left: 50px;
+}
+
+.boxSurvey{
+    width: 100;
+    position: static;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+label{
+    width: 140px;
+    display: inline-block;
+}
+
+input{
+    border-color: rgb(93, 93, 242);
+}
+
+#submitSurvey{
+    margin: 0;
+    position: absolute;
+    top: 115%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    padding: 7px 20px;
+    border-color: black;
+}
+
+th{
+    background-color: rgb(76, 74, 74);
+    color: white;
+}
+
+
