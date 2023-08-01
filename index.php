@@ -10,12 +10,12 @@
         <div class = "frame1">
             <div class = "frame2" align = "center">
                 <div>
-                    <input type = "button" id = "btnFillSurvey" name = "btnFillSurvey" Onclick="window.location.href='survey.html'" value = "Fill Out Survey"></input>
+                    <input type = "button" id = "btnFillSurvey" name = "btnFillSurvey" Onclick="window.location.href='survey.php'" value = "Fill Out Survey"></input>
                     <br></br>
                 </div>
 
                 <div>
-                    <input type = "button" id = "btnViewSurvey" Onclick="window.location.href='results.html'" value = "View Survey Results"></input>
+                    <input type = "button" id = "btnViewSurvey" Onclick="window.location.href='results.php'" value = "View Survey Results"></input>
                 </div>
             </div>
         </div>
